@@ -17,11 +17,11 @@ For more information, see [Token Terminal API Documentation](https://docs.tokent
 
 ### Installation:
 
-use pip to install:
-
 ``` 
-pip install tokenterminal
+poetry add git+https://github.com/bhargavkakadiya/tokenterminal.git
 ```
+
+Original package: https://pypi.org/project/tokenterminal/
 
 -----------
 
